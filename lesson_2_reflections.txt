@@ -1,2 +1,4 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area allows you to have more flexibility than you normally would without the staging area. It allows you to make more changes before committing to the live area.
+
+I am adding an additional updates to check the git command
